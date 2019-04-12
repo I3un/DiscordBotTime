@@ -1,0 +1,11 @@
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\bin\Debug\netcoreapp2.1\ClockAlertBot.deps.json
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\bin\Debug\netcoreapp2.1\ClockAlertBot.runtimeconfig.json
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\bin\Debug\netcoreapp2.1\ClockAlertBot.runtimeconfig.dev.json
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\bin\Debug\netcoreapp2.1\ClockAlertBot.dll
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\obj\Debug\netcoreapp2.1\ClockAlertBot.csprojAssemblyReference.cache
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\obj\Debug\netcoreapp2.1\ClockAlertBot.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\obj\Debug\netcoreapp2.1\ClockAlertBot.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\obj\Debug\netcoreapp2.1\ClockAlertBot.AssemblyInfo.cs
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\bin\Debug\netcoreapp2.1\ClockAlertBot.pdb
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\obj\Debug\netcoreapp2.1\ClockAlertBot.dll
+C:\Users\William\Desktop\Discord C#\Clock Alert\ClockAlertBot\ClockAlertBot\obj\Debug\netcoreapp2.1\ClockAlertBot.pdb
